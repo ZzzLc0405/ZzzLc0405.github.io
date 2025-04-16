@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-# Hello! I'm Lucong Zhang  
+## Hello! I'm Lucong Zhang  
 
 Welcome to my personal academic homepage! Here, you'll find my publications, blog posts, and other interesting content.  
 
-## About Me  
+### About Me  
 
 I am currently pursuing a Master's degree in **Electronic Information** at the [College of Computer Science and Engineering](https://jsj.nwnu.edu.cn/), [Northwest Normal University](https://www.nwnu.edu.cn/), expected to graduate in **June 2025**. I am actively seeking opportunities to pursue a **PhD**—feel free to reach out if my profile aligns with your research group!  
 
-## Research Interests  
+### Research Interests  
 
 My work focuses on:  
 - **Artificial Intelligence**  
@@ -25,15 +25,15 @@ My work focuses on:
 
 Currently, I primarily investigate **general algorithms**, but I aim to shift toward **applied research** to ensure direct societal impact. Recently, I’ve developed a strong interest in **agent-related studies** and would love to discuss potential collaborations.  
 
-## Let’s Connect!  
+### Let’s Connect!  
 
 I’d be delighted to connect with you! You can reach me via:  
 - **Email**: [ccletterbox@163.com](mailto:ccletterbox@163.com)  
 
 Looking forward to exchanging ideas!!!
 
-## My Team!  
+### My Team!  
 
-<img src="../images/team.jpg" alt="My Team" style="max-width:100/%; height:auto;">
+<img src="../images/team.JPG" alt="My Team" style="max-width:100/%; height:auto;">
 
 
