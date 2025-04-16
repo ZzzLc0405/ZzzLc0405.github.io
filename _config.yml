@@ -13,7 +13,7 @@ title                    : "Lucong Zhang / Homepages"
 title_separator          : "-"
 name                     : &name "Lucong Zhang"
 description              : &description "personal description"
-url                      : https://github.com/ZzzLc0405/ZzzLc0405.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://zzzlc0405.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZzzLc0405/ZzzLc0405.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "No future was ever built on yesterday’s regrets. Build today."
   location         : "Lanzhou China"
   employer         : "Northwest Noraml University"
-  uri              : https://zzzlc0405.github.io
+  uri              : #
   email            : "ccletterbox@163.com" 
 
   # Academic websites
