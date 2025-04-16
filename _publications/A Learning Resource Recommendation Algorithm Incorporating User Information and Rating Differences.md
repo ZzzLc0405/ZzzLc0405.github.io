@@ -16,4 +16,7 @@ citation: 'L. Wang, H. Wu, L. Zhang, H. Cheng, "A Learning Resource Recommendati
 This paper conducts research on the field of learningresource recommendation, mines potential features such asuser's gender, education, and region of life, and introduces rating difference similarity calculation for the characteristics of nonpreferred rating data in the dataset to achieve an improvement on the traditional CF based on user similarity and obtain better recommendation results.<br>
 </div>
 
+### Graphic Abstracts
+
+The graphic abstract is shown below  
 
