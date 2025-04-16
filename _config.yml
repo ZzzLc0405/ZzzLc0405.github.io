@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lucong Zhang /Personal Homepages"
+title                    : "Personal Homepages"
 title_separator          : "-"
 name                     : &name "Lucong Zhang"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "No future was ever built on yesterday’s regrets. Build today."
   location         : "Lanzhou China"
-  employer         : "Northwest Noraml University"
+  employer         : #"Northwest Noraml University"
   uri              : #
   email            : "ccletterbox@163.com" 
 
