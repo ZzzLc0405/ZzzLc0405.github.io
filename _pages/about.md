@@ -34,6 +34,6 @@ Looking forward to exchanging ideas!!!
 
 ### My Team!  
 
-<img src="../images/team.JPG" alt="My Team" style="max-width:100/%; height:auto;">
+<img src="../images/team.JPG" alt="My Team" style="zoom:50%">
 
 
