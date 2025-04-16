@@ -14,7 +14,7 @@ Welcome to my personal academic homepage! You can call me Lucian. Here, you'll f
 
 ### About Me  
 
-I am currently pursuing a Master's degree in **Electronic Information** at the [College of Computer Science and Engineering](https://jsj.nwnu.edu.cn/), [Northwest Normal University](https://www.nwnu.edu.cn/), expected to graduate in **June 2025**. I am actively seeking opportunities to pursue a **PhD**—feel free to reach out if my profile aligns with your research group! You can find my CV here: [Lucong Zhang's Curriculum Vitae](../assets/ZLc_s_CV_EN.pdf).  
+I am currently pursuing a Master's degree in **Electronic Information** at the [College of Computer Science and Engineering](https://jsj.nwnu.edu.cn/), [Northwest Normal University](https://www.nwnu.edu.cn/), expected to graduate in **June 2025**. I am actively seeking opportunities to pursue a **PhD**—feel free to reach out if my profile aligns with your research group! You can find my CV here: [Lucong-Zhang's Curriculum Vitae](../assets/ZLc_s_CV_EN.pdf).  
 
 ### Research Interests  
 
