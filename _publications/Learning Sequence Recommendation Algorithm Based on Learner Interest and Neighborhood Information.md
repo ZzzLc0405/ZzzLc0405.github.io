@@ -13,11 +13,12 @@ citation: 'L. Wang, L. Feng, H. Wu, L. Zhang, T. Cheng, "Learning Sequence Recom
 ### Contribution
 
 <div style="text-align: justify;">
-
+Based on the above problems and background, this paper has done related research work, which mainly includes: <br>
+  (1) proposing a learning sequential recommendation algorithm based on the learner's interests and neighborhood courses, which combines the learner's interests with similar course sequences for a predictive recommendation of future courses; <br>
+  (2) in the algorithm, the information enhancement of the target course by using the neighborhood courses through the directed graph attention propagation layer effectively improves the expression of the target course; <br>
+  (3) The effectiveness and accuracy of the algorithm proposed in this paper are demonstrated by comparison tests and ablation experiments on two datasets, MOOCCourse and MovieLens-1M.
 </div>
 
-### Graphic Abstracts
 
-The graphic abstract is shown below  
 
 
