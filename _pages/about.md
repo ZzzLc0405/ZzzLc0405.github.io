@@ -27,8 +27,7 @@ Currently, I primarily investigate **general algorithms**, but I aim to shift to
 
 ### Let’s Connect!  
 
-I’d be delighted to connect with you! You can reach me via:  
-- **Email**: [ccletterbox@163.com](mailto:ccletterbox@163.com)  
+I’d be delighted to connect with you! You can reach me via [**Email**](mailto:ccletterbox@163.com)  
 
 Looking forward to exchanging ideas!!!
 
