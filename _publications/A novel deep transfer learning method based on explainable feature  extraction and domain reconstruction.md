@@ -16,7 +16,7 @@ This research’s primary contributions are delineated as follows:<br>
   (2)<i>ProLIME</i> introduces Bayesian priors and kernel width optimization to LIME, resolving its instability in nonlinear scenarios. This method interprets the decision-making process of deep transfer learning models through key feature extraction, thereby partially alleviating the “black-box” issue in deep transfer learning; <br>
   (3)This study reconstructs target domain data using a seed replacement method for key target samples, enabling the transfer task to concentrate on the features most influential to prediction outcomes while reducing data dimensionality;  <br>
   (4)A dynamic adaptive factor is used to quantitatively adjust the alignment between marginal and conditional distributions. By utilizing the Maximum Mean Discrepancy (MMD) to measure the distributional differences, this factor dynamically adjusts the alignment of the two distributions during training, thereby improving the performance and adaptability of transfer learning.  <br>
-These contributions indicate that this study aims to advance deep transfer learning and respond to the growing demand for XAI models. 
+These contributions indicate that this study aims to advance deep transfer learning and respond to the growing demand for XAI models.  <br>
 </div>
 
 ### Graphic Abstracts
