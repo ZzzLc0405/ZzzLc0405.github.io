@@ -6,7 +6,7 @@ excerpt: 'Although deep transfer learning has made significant progress, its “
 date: 2025-03-15
 venue: 'May 15'
 paperurl: '[Paper](https://doi.org/10.1016/j.neunet.2025.107401)'
-citation: 'L. Wang, L. Zhang, L. Feng, T. Chen, H. Qin. (2025). A novel deep transfer learning method based on explainable feature extraction and domain reconstruction, <i>Neural Networks</i>. 187. https://doi.org/10.1016/j.neunet.2025.107401'
+citation: 'L. Wang, L. Zhang, L. Feng, T. Chen, H. Qin. (2025). A novel deep transfer learning method based on explainable feature extraction and domain reconstruction, <i>Neural Networks</i>. 187, 107401. https://doi.org/10.1016/j.neunet.2025.107401'
 ---
 
 ### Contribution
