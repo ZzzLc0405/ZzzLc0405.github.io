@@ -1,4 +1,3 @@
-
 ---
 title: "Learning Sequence Recommendation Algorithm Based on Learner Interest and Neighborhood Information"
 collection: publications
@@ -10,7 +9,9 @@ venue: "5th International Conference on Computer Science and Management Technolo
 paperurl: "https://doi.org/10.1145/3708036.3708124"
 citation: 'L. Wang et al., "Learning Sequence Recommendation Algorithm Based on Learner Interest and Neighborhood Information," <i>Proc. ICCSMT 2024</i>, pp. 513-519. doi:10.1145/3708036.3708124'
 ---
+
 ### Contribution
+
 <div style="text-align: justify;">
 
 </div>
