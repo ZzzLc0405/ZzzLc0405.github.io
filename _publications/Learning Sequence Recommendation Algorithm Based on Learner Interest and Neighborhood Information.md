@@ -7,7 +7,7 @@ excerpt: |
 date: 2024-10-18
 venue: "5th International Conference on Computer Science and Management Technology (ICCSMT)"
 paperurl: "https://doi.org/10.1145/3708036.3708124"
-citation: 'L. Wang et al., "Learning Sequence Recommendation Algorithm Based on Learner Interest and Neighborhood Information," <i>Proc. ICCSMT 2024</i>, pp. 513-519. doi:10.1145/3708036.3708124'
+citation: 'L. Wang, L. Feng, H. Wu, L. Zhang, T. Cheng, "Learning Sequence Recommendation Algorithm Based on Learner Interest and Neighborhood Information," <i>Proc. ICCSMT 2024</i>, pp. 513-519. doi:10.1145/3708036.3708124'
 ---
 
 ### Contribution
