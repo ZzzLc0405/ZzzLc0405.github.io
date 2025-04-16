@@ -10,7 +10,7 @@ redirect_from:
 
 ## Hello! I'm Lucong Zhang  
 
-Welcome to my personal academic homepage! Here, you'll find my publications, blog posts, and other interesting content.  
+Welcome to my personal academic homepage! You can call me Lucian. Here, you'll find my publications, blog posts, and other interesting content.  
 
 ### About Me  
 
