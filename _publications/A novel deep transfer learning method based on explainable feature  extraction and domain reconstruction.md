@@ -17,3 +17,9 @@ This research’s primary contributions are delineated as follows:
   (3) This study reconstructs target domain data using a seed replacement method for key target samples, enabling the transfer task to concentrate on the features most influential to prediction outcomes while reducing data dimensionality.  
   (4) A dynamic adaptive factor is used to quantitatively adjust the alignment between marginal and conditional distributions. By utilizing the Maximum Mean Discrepancy (MMD) to measure the distributional differences, this factor dynamically adjusts the alignment of the two distributions during training, thereby improving the performance and adaptability of transfer learning.  
 These contributions indicate that this study aims to advance deep transfer learning and respond to the growing demand for XAI models. 
+
+### Graphic Abstracts
+
+The graphic abstract is shown below  
+
+![图形摘要1](..\images\Paper1GA.png)
