@@ -19,6 +19,8 @@ Based on the above problems and background, this paper has done related research
   3. The effectiveness and accuracy of the algorithm proposed in this paper are demonstrated by comparison tests and ablation experiments on two datasets, MOOCCourse and MovieLens-1M. <br>
 </div>
 
+### Graphic Abstracts
 
+The graphic abstract is shown below  
 
 
