@@ -6,13 +6,13 @@ excerpt: 'Although deep transfer learning has made significant progress, its “
 date: 2025-03-15
 venue: 'May 15'
 paperurl: '[paper](https://doi.org/10.1016/j.neunet.2025.107401)'
-citation: 'L. Wang, L. Zhang, L. Feng, T. Chen, H. Qin. (2025). &quot;A novel deep transfer learning method based on explainable feature extraction and domain reconstruction.&quot, <i>Neural Networks</i>. 187. https://doi.org/10.1016/j.neunet.2025.107401'
+citation: 'L. Wang, L. Zhang, L. Feng, T. Chen, H. Qin. (2025). &quot;A novel deep transfer learning method based on explainable feature extraction and domain reconstruction&quot;, <i>Neural Networks</i>. 187. https://doi.org/10.1016/j.neunet.2025.107401'
 ---
 
 ### Contribution
 <div style="text-align: justify;">
 This research’s primary contributions are delineated as follows:  
-  (1) This study proposes XDTL, a multi-stage transfer method that combines explainable feature analysis with deep transfer learning. Unlike existing methods that focus solely on performance, XDTL quantifies feature-level transfer differences through <em>ProLIME</em>, enabling targeted domain adaptation optimization.  
+  (1) This study proposes XDTL, a multi-stage transfer method that combines explainable feature analysis with deep transfer learning. Unlike existing methods that focus solely on performance, XDTL quantifies feature-level transfer differences through <i>ProLIME</i>, enabling targeted domain adaptation optimization.  
   (2) ProLIME introduces Bayesian priors and kernel width optimization to LIME, resolving its instability in nonlinear scenarios. This method interprets the decision-making process of deep transfer learning models through key feature extraction, thereby partially alleviating the “black-box” issue in deep transfer learning.  
   (3) This study reconstructs target domain data using a seed replacement method for key target samples, enabling the transfer task to concentrate on the features most influential to prediction outcomes while reducing data dimensionality.  
   (4) A dynamic adaptive factor is used to quantitatively adjust the alignment between marginal and conditional distributions. By utilizing the Maximum Mean Discrepancy (MMD) to measure the distributional differences, this factor dynamically adjusts the alignment of the two distributions during training, thereby improving the performance and adaptability of transfer learning.  
