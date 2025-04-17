@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.E. in Electronic Information, Northwest Normal University, 2022-2025  
+* A.E. in Software Technology, Jiangsu College of Finance & Accounting, 2016-2019 (3-year Diploma)  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024(Fall)-2025(Spring): Intern (student)  
+  * Lanzhou Yisheng Education.  
+  * Duties includes: Advanced Mathematics  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023(Fall)-2024(Summer): Intern (student)  
+  * Dalian Guyin TECHNOLOGY DEVELOPMENT CO. LTD.  
+  * Duties included:  Systems and software development.  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Development engineer  
+  * Dalian Xinqiao TECHNOLOGY DEVELOPMENT CO.LTD.  
+  * Duties included:  Systems and software development(Java)  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Deep Learning**
+  * Deep Learning Framework（PyTorch)
+  * Artificial Intelligence algorithms（Machine Learning，Transfer Learning，Deep Regression Learning）
+* **Photography**
+  * Scenery
+  * Portrait
+  * Humanities
 
 Publications
 ======
